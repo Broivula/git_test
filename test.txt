@@ -1,4 +1,4 @@
-this is branch master
+new branch from origin/master
 in here is the word coffee
 
 this is also commit 2
